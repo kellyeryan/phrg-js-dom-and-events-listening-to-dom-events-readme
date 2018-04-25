@@ -184,3 +184,4 @@ You should now understand how to add an event listener, how different event trig
 - [QuirksMode - Event order](http://www.quirksmode.org/js/events_order.html)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/listening-to-dom-nodes'>Listening To Nodes</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Listening to Nodes</p>
